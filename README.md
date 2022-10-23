@@ -1,7 +1,8 @@
 # Jekyll
 
-https://fp-xtec.io/smx-8-jekyll/
 
 ```sh
-$ docker-compose up -d
+./jekyll.sh run
 ```
+
+https://github.com/envygeeks/jekyll-docker/blob/master/README.md
