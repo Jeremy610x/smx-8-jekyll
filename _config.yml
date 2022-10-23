@@ -1,6 +1,5 @@
 markdown_ext: "md,html"
 exclude: 
-  - docker-compose.yml
   - Gemfile
   - Gemfile.lock
   - jekyll.sh
